@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Dhruv Acharya!]
+### Hi there 👋 I'm Dhruv Acharya
 
 ## Support
 
