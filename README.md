@@ -1,23 +1,53 @@
-### Hi there 👋 I'm Dhruv Acharya
+# 👋 Hi, I'm Dhruv Acharya  
 
-## Support
+💻 **Software Developer | Tech Enthusiast | Problem Solver**  
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhruvSAcharya&show_icons=true&locale=en&layout=compact" alt="DhruvSAcharya" /><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=DhruvSAcharya&show_icons=true&locale=en&theme=radical" alt="DhruvSAcharya" />
+I’m passionate about building scalable applications, experimenting with new technologies, and solving real-world problems through code.  
+Currently exploring **.NET, Blazor, Angular, and AI integrations** 🚀  
+
+---
+
+## 🌟 About Me
+- 🔭 Currently working on: **Blazor Hybrid Apps, AI-integrated tools, and scalable web solutions**  
+- 🌱 Learning & exploring: **Cloud (Azure), CQRS, Clean Architecture, and Mobile Development**  
+- 💡 Interested in: **Full-stack development, Open Source, and Game Dev experiments**  
+- 💬 Ask me about: **C#, .NET, Blazor, React, and Software Architecture**  
+- ⚡ Fun fact: I love blending **tech + creativity** (sometimes I code games just for fun 🎮)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvSAcharya&show_icons=true&theme=radical" alt="Dhruv's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DhruvSAcharya&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Langs" height="165" />
 </p>
 
-<!--
-**DhruvSAcharya/DhruvSAcharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,angular,html,css,js,ts,java,python,mysql,sqlite,azure,docker,git,github,postman&perline=8" />
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruv-acharya-26b483183" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ds.acharya29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/DhruvSAcharya">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+⭐️ _"Code is like humor. When you have to explain it, it’s bad."_  
+
