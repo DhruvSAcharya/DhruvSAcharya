@@ -3,7 +3,7 @@
 💻 **Software Developer | Tech Enthusiast | Problem Solver**  
 
 I’m passionate about building scalable applications, experimenting with new technologies, and solving real-world problems through code.  
-Currently exploring **.NET, Blazor, Angular, and AI integrations** 🚀  
+Currently exploring **.NET, Blazor, React, and AI integrations** 🚀  
 
 ---
 
@@ -28,7 +28,7 @@ Currently exploring **.NET, Blazor, Angular, and AI integrations** 🚀
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,blazor,angular,html,css,js,ts,java,python,mysql,sqlite,azure,docker,git,github,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,redis,react,html,css,js,ts,bootstrap,tailwind,mysql,azure,docker,git,github,postman&perline=8" />
 </p>
 
 ---
