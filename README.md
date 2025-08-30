@@ -28,7 +28,7 @@ Currently exploring **.NET, Blazor, React, and AI integrations** 🚀
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,redis,react,html,css,js,ts,bootstrap,tailwind,mysql,azure,docker,git,github,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,redis,react,html,css,js,ts,bootstrap,tailwind,mysql,azure,docker,git,github&perline=8" />
 </p>
 
 ---
